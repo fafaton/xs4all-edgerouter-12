@@ -654,14 +654,6 @@ system {
             }
         }
     }
-    task-scheduler {
-        task updateIPTVroute {
-            executable {
-                path /config/scripts/tvroute.sh
-            }
-            interval 15m
-        }
-    }
     time-zone Europe/Amsterdam
     traffic-analysis {
         dpi enable
