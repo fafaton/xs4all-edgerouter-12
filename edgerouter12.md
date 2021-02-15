@@ -394,8 +394,8 @@ interfaces {
                 }
                 mtu 1500
                 name-server auto
-                password xs4all
-                user-id FB5490@xs4all.nl
+                password xxxxxxxx
+                user-id xxxxxxxx
             }
         }
     }
