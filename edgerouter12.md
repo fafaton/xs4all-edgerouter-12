@@ -25,7 +25,7 @@
 ### Static IP Mappings (DHCP)
 * 192.168.10.1 - switch0 (LAN GW)
 * 192.168.10.20 - cable box 1
-* 192168.10.21 - cable box 2
+* 192.168.10.21 - cable box 2
 * 192.168.10.4 - Linux box (syslog/tftp)
 
 *I routed netflix to OpenVPN.*
